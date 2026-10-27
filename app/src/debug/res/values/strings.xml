@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_title">Drive simulator (development)</string>
+    <string name="sim_course">%1$d-min course</string>
+    <string name="sim_drive">Gear D</string>
+    <string name="sim_park">Gear P</string>
+    <string name="sim_belt">Belt %1$s</string>
+    <string name="sim_tunnel">Tunnel</string>
+    <string name="sim_rest_area">Rest area 3 km</string>
+    <string name="sim_congestion">Traffic ahead</string>
+    <string name="sim_slow">Slow or fast</string>
+    <string name="sim_stop">Stop</string>
+    <string name="sim_region">Enter Gangwon</string>
+    <string name="sim_progress" formatted="false">Progress +26%</string>
+    <string name="sim_night">Headlights</string>
+    <string name="sim_rain">Wipers</string>
+    <string name="sim_turn">Turn signal</string>
+    <string name="sim_arrive">Arrive</string>
+    <string name="sim_on">Turn on</string>
+    <string name="sim_off">Turn off</string>
+    <string name="sim_ac">Air conditioner</string>
+    <string name="sim_heater">Heater</string>
+    <string name="sim_listen">Listen test</string>
+    <string name="sim_listen_prompt">Say something after the beep, like left or right.</string>
+    <string name="sim_listen_heard">I heard: %1$s</string>
+    <string name="sim_listen_none">I did not hear anything.</string>
+</resources>

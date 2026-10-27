@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_title">주행 시뮬레이터 (개발용)</string>
+    <string name="sim_course">%1$d분 코스</string>
+    <string name="sim_drive">기어 D</string>
+    <string name="sim_park">기어 P</string>
+    <string name="sim_belt">벨트 %1$s</string>
+    <string name="sim_tunnel">터널</string>
+    <string name="sim_rest_area">휴게소 3km</string>
+    <string name="sim_congestion">정체 예고</string>
+    <string name="sim_slow">느림·빠름</string>
+    <string name="sim_stop">정차</string>
+    <string name="sim_region">강원도 진입</string>
+    <string name="sim_progress" formatted="false">진행 +26%</string>
+    <string name="sim_night">전조등</string>
+    <string name="sim_rain">와이퍼</string>
+    <string name="sim_turn">깜빡이</string>
+    <string name="sim_arrive">도착</string>
+    <string name="sim_on">켜기</string>
+    <string name="sim_off">끄기</string>
+    <string name="sim_ac">에어컨</string>
+    <string name="sim_heater">히터</string>
+    <string name="sim_listen">듣기 테스트</string>
+    <string name="sim_listen_prompt">이제 반짝이가 들어 볼게. 왼쪽, 오른쪽처럼 크게 말해 줘!</string>
+    <string name="sim_listen_heard">들은 말: %1$s</string>
+    <string name="sim_listen_none">아무 말도 듣지 못했어.</string>
+</resources>
